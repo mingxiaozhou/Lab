@@ -1,3 +1,3 @@
 <?php
-	echo "HTML5 Lab";
+	echo "HTML5 Lab Hello world";
 ?>
